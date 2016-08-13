@@ -2,54 +2,45 @@
 
 <table>
   <tr>
-    <td></td>
+    <td rowspan="3">Nominativ</td>
     <td colspan="3">Singular</td>
     <td>Plural</td>
   </tr>
   <tr>
-    <td></td>
     <td>maskulin</td>
     <td>feminin</td>
     <td>neutral</td>
     <td></td>
   </tr>
   <tr>
-    <td rowspan="4">Nominativ</td>
-    <td>der Fernseher</td>
-    <td>die Lampe</td>
-    <td>das Radio</td>
-    <td>die Zimmer</td>
+    <td>der Fernseher<br/>
+        der alte Fernseher<br/>
+        ein alter Fernseher<br/>
+        kein alter Fernseher
+    </td>
+    <td rowspan="2">die Lampe<br/>
+        die neue Lampe<br/>
+        eine neue Lampe<br/>
+        keine neue Lampe<br/>
+    </td>
+    <td rowspan="2">das Radio<br/>
+        das moderne Radio<br/>
+        ein modernes Radio<br/>
+        kein modernes Radio
+    </td>
+    <td rowspan="2">die Zimmer<br/>
+        die kleinen Zimmer<br/>
+        <br/>
+        keine kleinen Zimmer
+    </td>
   </tr>
   <tr>
-    <td>der alte Fernseher</td>
-    <td>die neue Lampe</td>
-    <td>das moderne Radio</td>
-    <td>die kleinen Zimmer</td>
-  </tr>
-  <tr>
-    <td>ein alter Fernseher</td>
-    <td>eine neue Lampe</td>
-    <td>ein modernes Radio</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>kein alter Fernseher</td>
-    <td>keine neue Lampe</td>
-    <td>kein modernes Radio</td>
-    <td>keine kleinen Zimmer</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Akkusativ</td>
-    <td>den Fernseher</td>
-  </tr>
-  <tr>
-    <td>den alten Fernseher</td>
-  </tr>
-  <tr>
-    <td>einen alten Fernseher</td>
-  </tr>
-  <tr>
-    <td>keinen alten Fernseher</td>
+    <td>Akkusativ</td>
+    <td>den Fernseher<br/>
+        den alten Fernseher<br/>
+        einen alten Fernseher<br/>
+        keinen alten Fernseher
+    </td>
   </tr>
 </table>
 
